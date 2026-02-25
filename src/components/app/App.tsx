@@ -1,5 +1,5 @@
 import css from './App.module.css';
-import useState from 'react';
+import {useState} from 'react';
 import toast, {Toaster} from 'react-hot-toast';
 import SearchBar from '../SearchBar/SearchBar';
 import MovieGrid from '../MovieGrid/MovieGrid';
